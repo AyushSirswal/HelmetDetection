@@ -1,0 +1,5 @@
+train: /content/HelmetDetection.v1i.yolov8/train/images
+val: /content/HelmetDetection.v1i.yolov8/valid/images
+
+nc: 2
+names: ['helmet', 'no-helmet']
