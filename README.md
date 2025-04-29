@@ -1,3 +1,4 @@
+
 # 🛵 Helmet Detection using YOLOv8 🚀
 
 This project uses YOLOv8 to detect whether a person is wearing a helmet on a two-wheeler. It includes two main phases:
@@ -150,4 +151,6 @@ Ayush Sirswal
 BCA Final Year
 
 YOLOv8 | AI-Powered Safety Projects
+
+# HelmetDetection
 
